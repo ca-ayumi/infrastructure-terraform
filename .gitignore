@@ -1,0 +1,8 @@
+```gitignore
+# Terraform
+*.tfstate
+*.tfstate.backup
+.terraform/
+
+# Arquivos de log e crash
+crash.log
